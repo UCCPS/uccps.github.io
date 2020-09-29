@@ -1,0 +1,11 @@
+.bg-custom {
+    background-color: #a3c1ad;
+}
+
+.measure-wide {
+    max-width: 72em;
+}
+
+main.pb7 {
+    padding-bottom: 0;
+}

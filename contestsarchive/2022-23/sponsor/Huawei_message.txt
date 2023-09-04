@@ -1,0 +1,26 @@
+Dear members
+
+We are happy to invite you to the great event the 45th ICPC World Finals Challenge powered by Huawei，which will start on November 17, 2022, 00:00 UTC (UTC+0).
+
+In this Challenge, You will have a unique chance:
+
+·        to compete during 14 days online challenge;
+
+·        to solve 1 or 2 problems prepared by different business domains of HUAWEI;
+
+·        to win amazing prizes from HUAWEI!
+
+As a special prize, HUAWEI together with ICPC Foundation will provide the travel trip to the 46th Annual ICPC World Finals in a guest role to the 2 winners (1 winner for each problem)!
+
+Everybody is welcome to participate. It is an individual competition.
+
+45th ICPC World Finals Challenge powered by Huawei (open to public):
+
+Start: November 17, 2022 00:00 UTC (UTC+0)
+Finish: November 30, 2022 23:59 UTC (UTC+0)
+
+This time HUAWEI has prepared 2 challenging tasks for you from different business domains – Central Software Institute and HiSilicon. Problem 1 “Parameterized Branch Instruction Stream Generation” is designed by HiSilicon, while Problem 2 “Task Scheduling and Data Assignment” by Central Software Institute. Both Problems set up a generous reward plan separately. You are free to choose which problem you would like to solve, and you are also welcome to solve both problems, but please remember the total runtime of both rounds, which start simultaneously, is 14 days only. We hope you'll enjoy this complex yet very exciting Challenge!
+
+Each problem will have own scoreboard and own prize fund, so this is a unique chance for you to win double prize for two solved problems!
+
+Webpage on Codeforces: https://codeforces.com/blog/entry/107590
